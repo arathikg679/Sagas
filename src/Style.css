@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Dancing+Script:wght@700&family=Open+Sans&family=Playfair+Display&display=swap');
+body{
+ min-height: 100%;
+}
+/*Navbar*/
+#navbar-items{
+  color:black;
+  font-weight: bold;
+  font-family: 'Playfair Display', serif;
+  
+}
+#nav{
+  position: sticky;
+  top: 0;
+  z-index: 1000; 
+  margin-bottom:20px;
+  
+}
+#logo{
+  font-family: 'Dancing Script', cursive;
+  font-weight: bolder;
+  font-size:2vmax;
+}
+  /*Home*/
+  #title{
+    font-size:7vmax;
+    font-family: 'Dancing Script', cursive;
+  }
+  #tag-line{
+    font-size:3vmax;
+    font-family: 'Borel', cursive;
+    font-family: 'Dancing Script', cursive;
+
+  }
+  #home-bg img{
+    width: 100%;
+    height: 100%;
+    max-width:500px;
+    max-height:500px;
+  }
+  #home-bg{
+    padding:30px;
+  }
+#bst-head{
+  font-size:3vmax;
+  color:black;
+  font-family: 'Playfair Display', serif;
+}
+#best-sellers h3{
+  font-size:1.2vmax;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+}
+#best-sellers p{
+  font-size:1vmax;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+
+}
+#bestsel-text{
+  width:100%;
+  height: 100%;
+  max-width:500px;
+  max-height:200px;
+  padding:10px;
+}
+#bestsel-text p{
+  padding:10px;
+}
+
+#best-sellers img{
+  width: 100%;
+  max-width:300px;
+  max-height:300px;
+}
+/*About*/
+
+#about h1{
+  font-size:3vmax;
+  color:black;
+  font-family: 'Playfair Display', serif;
+ margin-bottom:30px;
+}
+#about h5{
+  font-size:1.7vmax;
+  font-family: 'Playfair Display', serif;
+}
+#about img{
+  width: 100%;
+  height: 100%;
+  max-width: 600px;
+  max-height: 600px;
+}
+/*footer*/
+#footer{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding: 10px;
+ 
+}
+
+/*Bookstore*/
+#bookstore img{
+  width: 100%;
+  max-width: 300px;
+  height:100%;
+  max-height: 300px
+}
+#bookstore p{
+  padding: 5px;
+  font-size:1vmax;
+  font-family: 'Open Sans', sans-serif;
+}
+#bookstore h5{
+  padding: 10px;
+  font-size:1.3vmax;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/*Codng books*/
+#coding-books{
+  margin-bottom: 150px;
+}
+#coding-books h2{
+  padding-top: 80px;
+  font-size:2.1vmax;
+  font-family: 'Playfair Display', serif;
+}
+#coding-link{
+  font-size:10vmax;
+  font-family: 'Borel', cursive;
+  font-family: 'Dancing Script', cursive;
+}
+
+/*contact*/
+#contact img{
+  width: 100%;
+  max-width:600px;
+  height: 100%;
+  max-height:800px;
+}
+#contact-head{
+  font-size:3vmax;
+  font-family: 'Open Sans', sans-serif;
+}
+#contact p{
+  font-size:1.8vmax;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/*latest books*/
+#latest-book img{
+  width: 100%;
+  max-width:500px;
+  max-height: 600px;
+}
+
+#latest-head{
+  font-size:3vmax;
+  color:black;
+  font-family: 'Playfair Display', serif;
+}
+#latest-details{
+  font-size:1.5vmax;
+  font-weight: bold;
+  font-family: 'Playfair Display', serif;
+}
