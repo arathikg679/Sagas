@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Sagas/static/css/main.6aae15a4.css",
-    "main.js": "/Sagas/static/js/main.b0879dce.js",
+    "main.js": "/Sagas/static/js/main.69ce042e.js",
     "index.html": "/Sagas/index.html",
     "main.6aae15a4.css.map": "/Sagas/static/css/main.6aae15a4.css.map",
-    "main.b0879dce.js.map": "/Sagas/static/js/main.b0879dce.js.map"
+    "main.69ce042e.js.map": "/Sagas/static/js/main.69ce042e.js.map"
   },
   "entrypoints": [
     "static/css/main.6aae15a4.css",
-    "static/js/main.b0879dce.js"
+    "static/js/main.69ce042e.js"
   ]
 }
