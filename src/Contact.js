@@ -10,7 +10,7 @@ const Contact = () => {
         <div className='card border-0 shadow-lg'>
           <h1 className=' text-center fw-bolder pt-5' id="contact-head">Contact Us</h1>
           <div className='row mt-4' id="contact">
-            <div className='col text-center'><img src="/Bgimages/contactus.jpg" className='w-100 h-100' /></div>
+            <div className='col text-center'><img src="https://img.freepik.com/free-vector/organic-flat-contact-us-illustration_52683-60703.jpg?w=2000" className='w-100 h-100' /></div>
 
             <div className='col text-center'>
               <div className='text-center fs-3 '>
